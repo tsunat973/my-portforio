@@ -9,7 +9,7 @@ body {
     height: 100vh;
     display: flex;
     align-items: center;
-    background: linear-gradient(135deg, #3399FF, #66CCFF);
+    background-color: #136FFF;
 }
 
 .hero-container{
