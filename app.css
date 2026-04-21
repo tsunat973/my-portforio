@@ -1,15 +1,19 @@
 body {
     margin: 80px;
+    background-color: #ecece7;
+    
+}
+
+header{
+    color: white;
 }
 
 
-
-
 #hero{
-    height: 100vh;
+    height: 80vh;
     display: flex;
     align-items: center;
-    background-color: #136FFF;
+    background-color: #ecece7;
 }
 
 .hero-container{
@@ -17,6 +21,8 @@ body {
     justify-content: space-between;
     align-items: center;
     padding: 0 60px;
+    max-width: 1100px;   /* ← これが重要 */
+    margin: 0 auto;      /* ← 中央寄せの本体 */
 }
 
 .hero-text h1{
@@ -25,7 +31,7 @@ margin: 10px 0;
 }
 
 .hero-text h2{
-    color: white;
+    color: #334155;
 }
 
 .hero-text p{
