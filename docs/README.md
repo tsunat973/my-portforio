@@ -4,7 +4,7 @@
 自己紹介用のポートフォリオサイトです。
 
 ## URL
-https://〇〇.github.io/〜
+https://tsunat973.github.io/my-portforio/
 
 ## 使用技術
 - HTML
